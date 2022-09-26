@@ -1,0 +1,44 @@
+.result--primary{
+    background-color: #5DADE2;
+    width: 400px;
+    height: 112px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.result--primary p{
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Ubuntu', sans-serif;
+    color: #fff;
+}
+.result--primary button{
+    background-color: #2E86C1;
+    text-align: center;
+    width: 100%;
+    padding: 10px 0px;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+}
+.result--small{
+    background-color: #F5B7B1;
+    width: 400px;
+    height: 112px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.result--small p{
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Ubuntu', sans-serif;
+    color: #fff;
+}
+.result--small button{
+    background-color: #C0392B;
+    text-align: center;
+    width: 100%;
+    padding: 10px 0px;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+}
